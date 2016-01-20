@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-copy-code-button",
+  "description": "Copy code on GitBook",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  },
+  "homepage": "https://github.com/WebEngage/gitbook-plugin-copy-code-button",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebEngage/gitbook-plugin-copy-code-button.git"
+  },
+  "author": "Nitin Bansal <nitin@webklipper.com>",
+  "scripts": {},
+  "_from": "gitbook-plugin-copy-code-button@0.0.1",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "0.10.38",
+  "_npmUser": {
+    "name": "webengage",
+    "email": "lithin@webklipper.com"
+  },
+  "maintainers": [
+    "Nitin Bansal <nitin@webklipper.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/WebEngage/gitbook-plugin-copy-code-button/issues"
+  },
+  "license": "ISC"
+}
