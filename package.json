@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-copy-code-button",
   "description": "Copy code on GitBook",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "gitbook": "*"
   },
